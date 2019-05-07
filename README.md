@@ -1,5 +1,5 @@
 # Project
-Comparison of various Machine Learning Models used in the research paper [1] for stock prediction.
+Comparison of various Machine Learning Models used in the research paper for stock prediction [1].
 
 ## About
 In the research paper that I picked, the authors surveyed and compared the predictive power of five neural network models, namely, back propagation (BP) neural network, radial basis function (RBF) neural network, general regression neural network (GRNN), support vector machine regression (SVMR), least squares support vector machine regresssion (LS-SVMR) for stock price prediction. They applied the five models to make price prediction of three individual stocks, namely, Bank of China, Vanke A and Kweichou Moutai. They found that BP neural network consistently and robustly outperformed the other four models [1]. In this project I test the conclusions of the neural networks for stock price prediction research paper.
