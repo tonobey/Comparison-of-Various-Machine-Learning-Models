@@ -57,7 +57,7 @@ Basic assumption in stock market is that the stock momentum increasing or decrea
 
 **Output:** If the closing stock price for a given stock is higher than yesterday’s closing stock price, then the output is 1, otherwise the output is 0.
 
-## 2.	Comparison of Results and Analysis :
+## 2.	Comparison of Results and Analysis:
 
 I ran the algorithm for each model 30 times and taking the average of the 30 runs at the end. I ran each model multiple times to make sure that the algorithm performs consistently.
 
@@ -70,7 +70,7 @@ I got 63.02 for mean accuracy with a standard deviation of 0.32.  An image of th
 **LSTM Result:**
 I got 62.35 for mean accuracy with a standard deviation of 0.40.  An image of the results is in the Long Short Term Memory folder.
 
-## Conclusion:
+## Conclusion
 
 In this project, I have shown that BPNN outperforms SVM and LSTM. However, we can not fully claim that BPNN outperforms RBF, GRNN, or LS-SVM because I have not implemented these models, but based on houw BPNN outperforms both the SVM and LSTM models, I will stand behind the conclusions of the research paper [1] that BPNN outperforms the others models tested. 
 
