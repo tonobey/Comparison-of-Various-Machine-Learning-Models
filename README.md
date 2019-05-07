@@ -76,16 +76,16 @@ In this project, I have shown that BPNN outperforms SVM and LSTM. However, we ca
 
 ## Reference
 **1.**
-**[Research Paper](https://arxiv.org/pdf/1805.11317v1.pdf)
+[Research Paper](https://arxiv.org/pdf/1805.11317v1.pdf)
 
 **2.**
-**[Reference Paper](https://www.cs.princeton.edu/sites/default/files/uploads/saahil_madge.pdf)
+[Reference Paper](https://www.cs.princeton.edu/sites/default/files/uploads/saahil_madge.pdf)
 
 **3.**
-**[BPNN Reference](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+[BPNN Reference](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 
 **4.**
-**[SVM Reference](https://scikit-learn.org/stable/modules/svm.html)
+[SVM Reference](https://scikit-learn.org/stable/modules/svm.html)
 
 **5.**
-**[LSTM Reference](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+[LSTM Reference](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
